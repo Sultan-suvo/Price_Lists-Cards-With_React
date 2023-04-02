@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Fields Olson",
+      "price": 30,
+      "features": [
+        "Gym access",
+        "Locker room",
+        "Unlimited classes"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Benita Holder",
+      "price": 30,
+      "features": [
+        "Gym access",
+        "Locker room",
+        "Unlimited classes"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Drake Clay",
+      "price": 30,
+      "features": [
+        "Gym access",
+        "Locker room",
+        "Unlimited classes"
+      ]
+    }
+  ]
